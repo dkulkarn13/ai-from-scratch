@@ -8,3 +8,7 @@
 ## Schedule
 - Week 0 start: Sep 23, 2025
 - Time budget: 1–1.5h weekdays, 4h Sat, 4h Sun
+## hello_colab.ipynb
+- Created: Sep 24, 2025
+- Contents: print, loop, tiny function
+- Saved via Colab → GitHub flow
